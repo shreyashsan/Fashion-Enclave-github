@@ -12,10 +12,8 @@ Fashion Enclave doesn't include anything related to database, it is just a HTML,
   <p align="center">
     And that's how it looks🤩
  </p>
- <p align="center">
- <img src="file:///C:/Users/shrey/OneDrive/Desktop/Repo/Fashion%20Enclave/index.html">
-  </p>
+ 
  <p align="center">
  Saw all the other pages?🧐 Go check it out now!🥳 
-   https://singh-shivani.github.io/Merlin-Fashion/
+   https://github.com/shreyashsan/Fashion-Enclave-github.git
 </p>
